@@ -34,7 +34,7 @@ const Posts = () => {
 		try {
 			setIsLoading(true);
 			setTimeout(async () => {
-				const result = await axios.get("http://localhost:3000/post");
+				const result = await axios.get("http://localhost:3000/posts");
 				console.log(result.data);
 				setPosts(result.data);
 				setIsLoading(false);
