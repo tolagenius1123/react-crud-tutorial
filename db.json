@@ -1,0 +1,22 @@
+{
+	"posts": [
+		{
+			"id": "1",
+			"title": "Next.js is the best frontend framework",
+			"description": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
+			"author": "Judeen"
+		},
+		{
+			"id": "2",
+			"title": "Vercel has become everyone's favourite for deployment",
+			"description": "Vercel Inc., formerly ZEIT, is an American cloud platform as a service company. The company maintains the Next.js web development framework. Vercel's architecture is built around composable architecture, and deployments are handled through Git repositories, the Vercel CLI, or the Vercel REST API.",
+			"author": "Damilare"
+		},
+		{
+			"id": "3",
+			"title": "Blockchain is the future of the web",
+			"description": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).",
+			"author": "Kunle Remi"
+		}
+	]
+}
