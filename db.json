@@ -1,22 +1,40 @@
 {
-	"posts": [
-		{
-			"id": "1",
-			"title": "Next.js is the best frontend framework",
-			"description": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
-			"author": "Judeen"
-		},
-		{
-			"id": "2",
-			"title": "Vercel has become everyone's favourite for deployment",
-			"description": "Vercel Inc., formerly ZEIT, is an American cloud platform as a service company. The company maintains the Next.js web development framework. Vercel's architecture is built around composable architecture, and deployments are handled through Git repositories, the Vercel CLI, or the Vercel REST API.",
-			"author": "Damilare"
-		},
-		{
-			"id": "3",
-			"title": "Blockchain is the future of the web",
-			"description": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).",
-			"author": "Kunle Remi"
-		}
-	]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Next.js is the best frontend framework",
+      "description": "Next.js is an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static website generation.",
+      "author": "Judeen"
+    },
+    {
+      "id": "2",
+      "title": "Vercel has become everyone's favourite for deployment",
+      "description": "Vercel Inc., formerly ZEIT, is an American cloud platform as a service company. The company maintains the Next.js web development framework. Vercel's architecture is built around composable architecture, and deployments are handled through Git repositories, the Vercel CLI, or the Vercel REST API.",
+      "author": "Damilare"
+    },
+    {
+      "id": "3",
+      "title": "Blockchain is the future of the web",
+      "description": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves).",
+      "author": "Kunle Remi"
+    },
+    {
+      "id": "a42e",
+      "title": "The Evolution of AI",
+      "description": "Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.",
+      "author": "Joshua Adebanjo"
+    },
+    {
+      "id": "9b15",
+      "title": "JavaScript is the most popular programming lanaguage",
+      "description": "Web browsers have a dedicated JavaScript engine that executes the client code. These engines are also utilized in some servers and a variety of apps.",
+      "author": "Eva Alordia"
+    },
+    {
+      "id": "6a81",
+      "title": "Software Engineering is a big deal",
+      "description": "You have to become a software engineer to become rich",
+      "author": "Tajudeen Omotola"
+    }
+  ]
 }
