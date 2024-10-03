@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
 import Posts from "./pages/Posts.jsx";
 import AddPost from "./pages/AddPost.jsx";
 import { Toaster } from "react-hot-toast";
+import ViewPost from "./pages/ViewPost.jsx";
 
 const router = createBrowserRouter([
 	{
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
 	{
 		path: "/add-post",
 		element: <AddPost />,
+	},
+	{
+		path: "/posts/post/:id",
+		element: <ViewPost />,
 	},
 ]);
 

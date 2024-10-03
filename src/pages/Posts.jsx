@@ -67,7 +67,7 @@ const Posts = () => {
 							<PostCard
 								id={post.id}
 								title={post.title}
-								description={post.description}
+								description={post.description.slice(0, 60)}
 								author={post.author}
 							/>
 						))}
