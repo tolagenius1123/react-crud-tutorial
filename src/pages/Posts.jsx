@@ -38,7 +38,7 @@ const Posts = () => {
 				console.log(result);
 				setPosts(result.data);
 				setIsLoading(false);
-			}, 3000);
+			}, 2000);
 		} catch (error) {
 			console.log(error);
 			setIsLoading(false);
